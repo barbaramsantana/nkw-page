@@ -15,6 +15,7 @@ Repositório do projeto NKW para lidar com o módulo principal.
 * termo de busca "property": https://www.kaggle.com/search?q=property+in%3Adatasets   
 
 **Bibliotecas para realizar _Web Scraping_ com Python.**
+* Scrapy: https://scrapy.org/
 * BeautifulSoup: https://pypi.org/project/beautifulsoup4/
 * Requests: https://pypi.org/project/requests/
 
