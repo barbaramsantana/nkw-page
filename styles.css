@@ -106,3 +106,19 @@ a:hover{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.card{
+    border-radius: 15px;
+}
+.btn-primary{
+    background-color: #BB6BD9;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    border-radius: 6rem;
+    border: none;
+}
+.btn-primary:hover{
+    background-color: #db58ff;
+}
+.text-indigo{
+    color: #BB6BD9;
+}
